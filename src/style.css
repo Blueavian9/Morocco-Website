@@ -64,9 +64,12 @@ html {
   justify-content: center;
   align-items: center;
   height: 50rem;
-  background: url("https://content.codecademy.com/courses/freelance-1/unit-6/project-morocco/banner.jpg") center center no-repeat;
+  background: url("https://content.codecademy.com/courses/freelance-1/unit-6/project-morocco/banner0.jpg") center center no-repeat;
   background-size: cover;
   color: #ffb78c;
+  background-attachment: initial;
+  background-clip: initial;
+  background-color: initial;
 }
 
 .banner h2 {
